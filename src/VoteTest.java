@@ -3,6 +3,7 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
+
 public class VoteTest {
 	Candidate c1,c2;
 	YourVote v1;
